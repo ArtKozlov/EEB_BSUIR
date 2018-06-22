@@ -1,0 +1,11 @@
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\bin\Debug\netcoreapp2.0\EEB_BSUIR.deps.json
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\bin\Debug\netcoreapp2.0\EEB_BSUIR.runtimeconfig.json
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\bin\Debug\netcoreapp2.0\EEB_BSUIR.runtimeconfig.dev.json
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\bin\Debug\netcoreapp2.0\EEB_BSUIR.dll
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\bin\Debug\netcoreapp2.0\EEB_BSUIR.pdb
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\obj\Debug\netcoreapp2.0\EEB_BSUIR.csprojResolveAssemblyReference.cache
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\obj\Debug\netcoreapp2.0\EEB_BSUIR.csproj.CoreCompileInputs.cache
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\obj\Debug\netcoreapp2.0\EEB_BSUIR.AssemblyInfoInputs.cache
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\obj\Debug\netcoreapp2.0\EEB_BSUIR.AssemblyInfo.cs
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\obj\Debug\netcoreapp2.0\EEB_BSUIR.dll
+c:\users\artsiom_kazlou1\Source\Repos\EEB_BSUIR\EEB_BSUIR\obj\Debug\netcoreapp2.0\EEB_BSUIR.pdb

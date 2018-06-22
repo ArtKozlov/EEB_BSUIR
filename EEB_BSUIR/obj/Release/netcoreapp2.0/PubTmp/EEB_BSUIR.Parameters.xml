@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="EEBBSUIR2018" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\artsiom_kazlou1\\Source\\Repos\\EEB_BSUIR\\EEB_BSUIR\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
